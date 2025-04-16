@@ -10,6 +10,9 @@ El propósito de este repositorio es demostrar cómo implementar clases abstract
 | Apellidos y Nombres |
 |---------------------|
 |Flores Torres Jhanpool|
+
+
+
 **Errores que han aparecido**: 
 1.
 - FiguraGeometrica.py:1:0: C0114: Missing module docstring (missing-module-docstring)
