@@ -4,6 +4,12 @@
 ## Propósito del Repositorio
 
 El propósito de este repositorio es demostrar cómo implementar clases abstractas en Python para representar figuras geométricas y cómo aplicar buenas prácticas de codificación según las convenciones de estilo **PEP 8**. Además, se ha incorporado Pylint para identificar y corregir posibles errores en el código, garantizando que siga las mejores prácticas.
+
+
+ ## Desarrollador 
+| Apellidos y Nombres |
+|---------------------|
+|Flores Torres Jhanpool|
 **Errores que han aparecido**: 
 1.
 - FiguraGeometrica.py:1:0: C0114: Missing module docstring (missing-module-docstring)
